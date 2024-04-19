@@ -581,7 +581,6 @@ sns.heatmap(df.isnull(),yticklabels=False,cbar=False, cmap='viridis')
 
 
 
-    <Axes: >
 
 
 
@@ -609,7 +608,6 @@ plt.title('Histogram of nulls by number of features missing')
 
 
 
-    Text(0.5, 1.0, 'Histogram of nulls by number of features missing')
 
 
 
