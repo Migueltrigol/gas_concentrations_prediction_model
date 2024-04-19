@@ -535,8 +535,6 @@ sns.pairplot(df)
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x1db367a3c10>
-
 
 
 
