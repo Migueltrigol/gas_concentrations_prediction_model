@@ -424,9 +424,6 @@ sns.lineplot( data=result)
 
 
 
-    <Axes: xlabel='Date'>
-
-
 
 
     
