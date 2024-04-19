@@ -456,7 +456,7 @@ sns.lineplot( data=result)
 
 
     
-![png](output_15_1.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_15_1.png)
     
 
 
@@ -482,7 +482,7 @@ for i , columns in enumerate(categ_columns):
 
 
     
-![png](output_16_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_16_0.png)
     
 
 
@@ -502,7 +502,7 @@ plt.tick_params(axis="x", labelrotation=90)
 
 
     
-![png](output_18_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_18_0.png)
     
 
 
@@ -521,7 +521,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_20_0.png)
     
 
 
@@ -550,7 +550,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_22_0.png)
     
 
 
@@ -570,7 +570,7 @@ sns.pairplot(df)
 
 
     
-![png](output_24_1.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_24_1.png)
     
 
 
@@ -618,7 +618,7 @@ sns.heatmap(df.isnull(),yticklabels=False,cbar=False, cmap='viridis')
 
 
     
-![png](output_27_1.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_27_1.png)
     
 
 
@@ -646,7 +646,7 @@ plt.title('Histogram of nulls by number of features missing')
 
 
     
-![png](output_29_1.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_29_1.png)
     
 
 
@@ -680,7 +680,7 @@ plot_time_autocorrelations(df, max_time=70, lag=1)
 
 
     
-![png](output_31_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_31_0.png)
     
 
 
@@ -850,7 +850,7 @@ plot_inf_vs_non_inf(df_noinf, df_final, column="NO2(GT)", date_min="2004-09-15",
 
 
     
-![png](output_42_0.png)
+![png](AirPollutionForecasting_files/AirPollutionForecasting_42_0.png)
     
 
 
